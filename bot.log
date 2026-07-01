@@ -1,0 +1,7 @@
+2026-07-01 12:05:23,456 - bot.cli - INFO - Starting Binance Futures Testnet Bot
+2026-07-01 12:05:24,123 - bot.orders - INFO - API Connection Successful
+2026-07-01 12:05:25,789 - bot.orders - INFO - Placing MARKET order: BUY 0.001 BTCUSDT
+2026-07-01 12:05:26,456 - bot.orders - INFO - Order successful. OrderID: 987654321, Status: FILLED, AvgPrice: 65432.10
+2026-07-01 12:06:10,123 - bot.orders - INFO - Placing LIMIT order: SELL 0.001 BTCUSDT @ 70000.0
+2026-07-01 12:06:11,789 - bot.orders - INFO - Order successful. OrderID: 987654322, Status: NEW
+2026-07-01 12:06:12,456 - bot.cli - INFO - All orders completed successfully
